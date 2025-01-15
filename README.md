@@ -3,8 +3,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saranya-sas)](https://github.com/Saranya-sas/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saranya-sas)](https://github.com/Saranya-sas/github-readme-stats)<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saranya-sas)](https://github.com/Saranya-sas/github-readme-stats)
+<!--
 **Saranya-sas/Saranya-sas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
