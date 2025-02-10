@@ -1,5 +1,5 @@
 #Hello there👋
-
+# I am Saranya , currently pursuing 3rd year of my U.G degree at KCT!!!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saranya-sas)](https://github.com/Saranya-sas/github-readme-stats)
 
